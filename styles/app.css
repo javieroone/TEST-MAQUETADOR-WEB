@@ -1,0 +1,733 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  /*width: 144rem;*/
+  width: 100%; height: auto;
+}
+.app-tid {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+}
+.app-tid .auto-group-8wdf-HVs {
+  width: 100%;
+  height: 118.1rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.app-tid .auto-group-8wdf-HVs .div-2-yGD {
+  box-sizing: border-box;
+  padding: 9.1rem 16.7rem 6.6rem 36.6rem;
+  width: 144rem;
+  height: 39.6rem;
+  position: absolute;
+  left: 0;
+  top: 78.5rem;
+  display: flex;
+  align-items: center;
+  background-color: #f3f4f8;
+}
+.app-tid .auto-group-8wdf-HVs .div-2-yGD .tennis-1Cu {
+  margin: 0rem 5.1rem 17.2rem 0rem;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.15;
+  letter-spacing: 0.12rem;
+  color: #cbe346;
+  font-family: Arimo, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.app-tid .auto-group-8wdf-HVs .div-2-yGD .auto-group-6mtm-Dpm {
+  margin: 0rem 7rem 0.8rem 0rem;
+  width: 48.5rem;
+  height: 23.1rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.app-tid .auto-group-8wdf-HVs .div-2-yGD .auto-group-6mtm-Dpm .conoce-nuestras-raquetas-y-aprende-a-jugar-tennis-cmo-un-profesional-jYD {
+  width: 38.2rem;
+  height: 6.3rem;
+  position: absolute;
+  left: 0;
+  top: 16.8rem;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.15;
+  letter-spacing: -0.009rem;
+  color: #787878;
+  font-family: Arimo, 'Source Sans Pro';
+}
+.app-tid .auto-group-8wdf-HVs .div-2-yGD .auto-group-6mtm-Dpm .raquetasaccesorios-pelotas-AtR {
+  width: 48.5rem;
+  height: 18.3rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 5.3rem;
+  font-weight: 700;
+  line-height: 1.15;
+  letter-spacing: -0.3445rem;
+  color: #000000;
+  font-family: Arimo, 'Source Sans Pro';
+}
+.app-tid .auto-group-8wdf-HVs .div-2-yGD .auto-group-lgw3-U8R {
+  margin-top: 18.5rem;
+  box-sizing: border-box;
+  padding: 1.8rem 3.9rem 1.9rem 3.8rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.app-tid .auto-group-8wdf-HVs .div-2-yGD .auto-group-lgw3-U8R .historia-yay {
+  margin-right: 6.7rem;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.15;
+  letter-spacing: 0.021rem;
+  color: #273048;
+  font-family: Arimo, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.app-tid .auto-group-8wdf-HVs .div-2-yGD .auto-group-lgw3-U8R .arrow-2-FoP {
+  margin-top: 0.1rem;
+  width: 2.2rem;
+  height: 0;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.app-tid .auto-group-8wdf-HVs .div-1-YGh {
+  box-sizing: border-box;
+  padding: 0rem 10.3rem 0rem 3.6rem;
+  width: 144rem;
+  height: 79.1rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  display: flex;
+  align-items: flex-start;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/head-fondo-bg.png');
+}
+.app-tid .auto-group-8wdf-HVs .div-1-YGh .ball-FB7 {
+  margin: 2.5rem 3.2rem 0rem 0rem;
+  width: 3.7rem;
+  height: 3.7rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.app-tid .auto-group-8wdf-HVs .div-1-YGh .linea-2-NmX {
+  margin-right: 6.5rem;
+  width: 0.2rem;
+  height: 78.5rem;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.app-tid .auto-group-8wdf-HVs .div-1-YGh .auto-group-bbwr-hJ1 {
+  margin: 5.3rem 48.6rem 0rem 0rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.app-tid .auto-group-8wdf-HVs .div-1-YGh .auto-group-bbwr-hJ1 .auto-group-kshf-DXF {
+  margin: 0rem 0rem 1.3rem 0.1rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.app-tid .auto-group-8wdf-HVs .div-1-YGh .auto-group-bbwr-hJ1 .auto-group-kshf-DXF .inicio-kGH {
+  margin-right: 5.9rem;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.15;
+  letter-spacing: 0.104rem;
+  color: #ffffff;
+  font-family: Arimo, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.app-tid .auto-group-8wdf-HVs .div-1-YGh .auto-group-bbwr-hJ1 .auto-group-kshf-DXF .acerca-de-nosotros-kp1 {
+  margin-right: 5.8rem;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.15;
+  letter-spacing: 0.104rem;
+  color: #ffffff;
+  font-family: Arimo, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.app-tid .auto-group-8wdf-HVs .div-1-YGh .auto-group-bbwr-hJ1 .auto-group-kshf-DXF .historia-5bP {
+  margin-right: 5.8rem;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.15;
+  letter-spacing: 0.104rem;
+  color: #ffffff;
+  font-family: Arimo, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.app-tid .auto-group-8wdf-HVs .div-1-YGh .auto-group-bbwr-hJ1 .auto-group-kshf-DXF .contacto-p3B {
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.15;
+  letter-spacing: 0.104rem;
+  color: #ffffff;
+  font-family: Arimo, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.app-tid .auto-group-8wdf-HVs .div-1-YGh .auto-group-bbwr-hJ1 .linea-9bF {
+  margin: 0rem 0rem 20.2rem 0.1rem;
+  width: 1.7rem;
+  height: 0.2rem;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.app-tid .auto-group-8wdf-HVs .div-1-YGh .auto-group-bbwr-hJ1 .las-mejores-raquetas-para-HBf {
+  margin-bottom: 0.8rem;
+  font-size: 5.3rem;
+  font-weight: 700;
+  line-height: 1.15;
+  letter-spacing: -0.1855rem;
+  color: #ffffff;
+  font-family: Arimo, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.app-tid .auto-group-8wdf-HVs .div-1-YGh .auto-group-bbwr-hJ1 .jugar-tennis-QGH {
+  margin-bottom: 3.6rem;
+  font-size: 5.3rem;
+  font-weight: 700;
+  line-height: 1.15;
+  letter-spacing: -0.1855rem;
+  color: #cbe346;
+  font-family: Arimo, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+  flex-shrink: 0;
+}
+.app-tid .auto-group-8wdf-HVs .div-1-YGh .auto-group-bbwr-hJ1 .jugar-tennis-QGH .jugar-tennis-QGH-sub-0 {
+  font-size: 5.3rem;
+  font-weight: 700;
+  line-height: 1.15;
+  letter-spacing: -0.1855rem;
+  color: #ffffff;
+  font-family: Arimo, 'Source Sans Pro';
+}
+.app-tid .auto-group-8wdf-HVs .div-1-YGh .auto-group-bbwr-hJ1 .jugar-tennis-QGH .jugar-tennis-QGH-sub-1 {
+}
+.app-tid .auto-group-8wdf-HVs .div-1-YGh .auto-group-bbwr-hJ1 .auto-group-rz1b-Xdj {
+  margin-left: 0.1rem;
+  width: 27rem;
+  height: 5.4rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.app-tid .auto-group-8wdf-HVs .div-1-YGh .auto-group-bbwr-hJ1 .auto-group-rz1b-Xdj .acerca-de-nosotros-Skh {
+  width: 17.3rem;
+  height: 1.5rem;
+  position: absolute;
+  left: 3rem;
+  top: 2rem;
+  font-size: 1.3rem;
+  font-weight: 700;
+  line-height: 1.15;
+  letter-spacing: 0.0975rem;
+  color: #ffffff;
+  font-family: Arimo, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.app-tid .auto-group-8wdf-HVs .div-1-YGh .auto-group-bbwr-hJ1 .auto-group-rz1b-Xdj .boton-Y33 {
+  width: 27rem;
+  height: 5.4rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 10rem;
+}
+.app-tid .auto-group-8wdf-HVs .div-1-YGh .auto-group-bbwr-hJ1 .auto-group-rz1b-Xdj .arrow-1-qnq {
+  width: 2.2rem;
+  height: 0;
+  position: absolute;
+  left: 20.8rem;
+  top: 2.8rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.app-tid .auto-group-8wdf-HVs .div-1-YGh .es-en-7EZ {
+  margin-top: 5.6rem;
+  font-size: 1.3rem;
+  font-weight: 700;
+  line-height: 1.15;
+  letter-spacing: 0.0845rem;
+  color: #ffffff;
+  font-family: Arimo, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.app-tid .div-3-1Kw {
+  width: 152rem;
+  height: 46.9rem;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.app-tid .div-3-1Kw .banner-Ld7 {
+  margin: 0rem 5.6rem 0.1rem 0rem;
+  box-sizing: border-box;
+  padding: 5.3rem 4.9rem 6.2rem 19.2rem;
+  width: 53rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/banner-ball-bg.png');
+  flex-shrink: 0;
+}
+.app-tid .div-3-1Kw .banner-Ld7 .auto-group-9aad-qpm {
+  margin: 0rem 0rem 5.4rem 1.1rem;
+  width: 27.8rem;
+  height: 20.2rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.app-tid .div-3-1Kw .banner-Ld7 .auto-group-9aad-qpm .nuestras-raquetas-mTX {
+  width: 22.8rem;
+  height: 17.3rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 5rem;
+  font-weight: 700;
+  line-height: 1.1499023438;
+  letter-spacing: -0.2rem;
+  color: #ffffff;
+  font-family: Arimo, 'Source Sans Pro';
+}
+.app-tid .div-3-1Kw .banner-Ld7 .auto-group-9aad-qpm .nuestras-raquetas-mTX .nuestras-raquetas-mTX-sub-0 {
+  font-size: 5rem;
+  font-weight: 700;
+  line-height: 1.15;
+  letter-spacing: -0.2rem;
+  color: #ffffff;
+  font-family: Arimo, 'Source Sans Pro';
+}
+.app-tid .div-3-1Kw .banner-Ld7 .auto-group-9aad-qpm .nuestras-raquetas-mTX .nuestras-raquetas-mTX-sub-1 {
+  font-size: 5rem;
+  font-weight: 700;
+  line-height: 1.15;
+  letter-spacing: 0.025rem;
+  color: #ffffff;
+  font-family: Arimo, 'Source Sans Pro';
+}
+.app-tid .div-3-1Kw .banner-Ld7 .auto-group-9aad-qpm .conoce-nuestras-raquetas-y-aprende-a-jugar-tennis-cmo-un-profesional-96h {
+  width: 27.8rem;
+  height: 6.3rem;
+  position: absolute;
+  left: 0;
+  top: 13.9rem;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.15;
+  letter-spacing: -0.009rem;
+  color: #ffffff;
+  font-family: Arimo, 'Source Sans Pro';
+}
+.app-tid .div-3-1Kw .banner-Ld7 .auto-group-dwev-QYR {
+  margin: 0rem 16.7rem 3.5rem 0rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.app-tid .div-3-1Kw .banner-Ld7 .auto-group-dwev-QYR .ellipse-9-V45 {
+  margin-right: 2.4rem;
+  width: 0.8rem;
+  height: 0.8rem;
+  background-color: #d9d9d9;
+  border-radius: 0.4rem;
+  flex-shrink: 0;
+}
+.app-tid .div-3-1Kw .banner-Ld7 .auto-group-dwev-QYR .ellipse-8-yjw {
+  margin-right: 2rem;
+  width: 0.8rem;
+  height: 0.8rem;
+  background-color: #d9d9d9;
+  border-radius: 0.4rem;
+  flex-shrink: 0;
+}
+.app-tid .div-3-1Kw .banner-Ld7 .auto-group-dwev-QYR .ellipse-7-hR3 {
+  margin-right: 2.4rem;
+  width: 0.8rem;
+  height: 0.8rem;
+  background-color: #d9d9d9;
+  border-radius: 0.4rem;
+  flex-shrink: 0;
+}
+.app-tid .div-3-1Kw .banner-Ld7 .auto-group-dwev-QYR .ellipse-6-azd {
+  width: 0.8rem;
+  height: 0.8rem;
+  background-color: #ebebeb;
+  border-radius: 0.4rem;
+  flex-shrink: 0;
+}
+.app-tid .div-3-1Kw .banner-Ld7 .auto-group-j2cq-hpM {
+  margin-right: 16.1rem;
+  width: calc(100% - 16.1rem);
+  height: 5.4rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.app-tid .div-3-1Kw .banner-Ld7 .auto-group-j2cq-hpM .auto-group-ongh-eDo {
+  margin-right: 2rem;
+  box-sizing: border-box;
+  padding: 2.15rem 2.25rem 1.95rem 2.2rem;
+  height: 100%;
+  border: solid 0.2rem #ffffff;
+  background-color: rgba(255, 0, 0, 0);
+  border-radius: 2.7rem;
+  flex-shrink: 0;
+}
+.app-tid .div-3-1Kw .banner-Ld7 .auto-group-j2cq-hpM .auto-group-ongh-eDo .vector-1-mpD {
+  width: 0.95rem;
+  height: 1.3rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.app-tid .div-3-1Kw .banner-Ld7 .auto-group-j2cq-hpM .auto-group-g8vm-5pu {
+  box-sizing: border-box;
+  padding: 2.1rem 2.25rem 2rem 2.2rem;
+  height: 100%;
+  background-color: #cbe346;
+  border-radius: 2.7rem;
+  flex-shrink: 0;
+}
+.app-tid .div-3-1Kw .banner-Ld7 .auto-group-j2cq-hpM .auto-group-g8vm-5pu .vector-2-pnV {
+  width: 0.95rem;
+  height: 1.3rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.app-tid .div-3-1Kw .item-1-vqX {
+  margin: 5.1rem 3.5rem 7.4rem 0rem;
+  width: 28.8rem;
+  height: calc(100% - 12.5rem);
+  position: relative;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/product-1-bg.png');
+  flex-shrink: 0;
+}
+.app-tid .div-3-1Kw .item-1-vqX .circulo-4B3 {
+  width: 4rem;
+  height: 4rem;
+  position: absolute;
+  left: 1.6rem;
+  top: 1.1rem;
+  background-color: #cbe346;
+  border-radius: 2rem;
+}
+.app-tid .div-3-1Kw .item-1-vqX .item-1-BmT {
+  width: 0.8rem;
+  height: 1.9rem;
+  position: absolute;
+  left: 3.2rem;
+  top: 2.15rem;
+  display: flex;
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.app-tid .div-3-1Kw .item-2-QPK {
+  margin: 5.1rem 3.5rem 7.4rem 0rem;
+  width: 28.8rem;
+  height: calc(100% - 12.5rem);
+  position: relative;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/product-2-bg.png');
+  flex-shrink: 0;
+}
+.app-tid .div-3-1Kw .item-2-QPK .circulo-Et9 {
+  width: 4rem;
+  height: 4rem;
+  position: absolute;
+  left: 1.5rem;
+  top: 1.1rem;
+  background-color: #cbe346;
+  border-radius: 2rem;
+}
+.app-tid .div-3-1Kw .item-2-QPK .item-2-n8y {
+  width: 1rem;
+  height: 1.9rem;
+  position: absolute;
+  left: 3.1rem;
+  top: 2.15rem;
+  display: flex;
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.app-tid .div-3-1Kw .item-3-Emf {
+  margin: 5.1rem 0rem 7.4rem 0rem;
+  width: 28.8rem;
+  height: calc(100% - 12.5rem);
+  position: relative;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/product-3-bg.png');
+  flex-shrink: 0;
+}
+.app-tid .div-3-1Kw .item-3-Emf .circulo-aKj {
+  width: 4rem;
+  height: 4rem;
+  position: absolute;
+  left: 1.7rem;
+  top: 1.1rem;
+  background-color: #cbe346;
+  border-radius: 2rem;
+}
+.app-tid .div-3-1Kw .item-3-Emf .item-3-WjB {
+  width: 1rem;
+  height: 1.9rem;
+  position: absolute;
+  left: 3.3rem;
+  top: 2.15rem;
+  display: flex;
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.app-tid .lanscape-91T {
+  width: 144rem;
+  height: 58.6rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.app-tid .div-5-rAm {
+  box-sizing: border-box;
+  padding: 7.4rem 6.3rem 5.9rem 7.8rem;
+  width: 100%;
+  height: 20.3rem;
+  display: flex;
+  align-items: center;
+  background-color: #cbe346;
+  flex-shrink: 0;
+}
+.app-tid .div-5-rAm .auto-group-29db-Zay {
+  margin-right: 1.2rem;
+  width: 7.4rem;
+  height: 100%;
+  flex-shrink: 0;
+}
+.app-tid .div-5-rAm .auto-group-29db-Zay .inicio-VzR {
+  margin-bottom: 2.4rem;
+  font-size: 1.3rem;
+  font-weight: 700;
+  line-height: 1.15;
+  letter-spacing: 0.104rem;
+  color: #000000;
+  font-family: Arimo, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.app-tid .div-5-rAm .auto-group-29db-Zay .auto-group-1hjo-DfX {
+  width: 100%;
+  display: flex;
+  align-items: center;
+}
+.app-tid .div-5-rAm .auto-group-29db-Zay .auto-group-1hjo-DfX .logo-in-x7K {
+  margin-right: 1.2rem;
+  width: 3.1rem;
+  height: 3.1rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.app-tid .div-5-rAm .auto-group-29db-Zay .auto-group-1hjo-DfX .logo-vevo-Tpm {
+  width: 3.1rem;
+  height: 3.1rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.app-tid .div-5-rAm .auto-group-jotf-yYD {
+  margin-right: 4.7rem;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.app-tid .div-5-rAm .auto-group-jotf-yYD .acerca-de-nosotros-hUD {
+  margin: 0rem 0rem 2.4rem 0.1rem;
+  font-size: 1.3rem;
+  font-weight: 700;
+  line-height: 1.15;
+  letter-spacing: 0.0715rem;
+  color: #000000;
+  font-family: Arimo, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.app-tid .div-5-rAm .auto-group-jotf-yYD .auto-group-kxu3-ZWR {
+  display: flex;
+  column-gap: 1.2rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.app-tid .div-5-rAm .auto-group-jotf-yYD .auto-group-kxu3-ZWR .logo-instagram-uaH {
+  width: 3.1rem;
+  height: 3.1rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.app-tid .div-5-rAm .auto-group-jotf-yYD .auto-group-kxu3-ZWR .logo-twitter-Tbo {
+  width: 3.1rem;
+  height: 3.1rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.app-tid .div-5-rAm .auto-group-jotf-yYD .auto-group-kxu3-ZWR .logo-facebook-ovZ {
+  width: 3.1rem;
+  height: 3.1rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.app-tid .div-5-rAm .historia-ZPw {
+  margin: 0rem 4.6rem 5.5rem 0rem;
+  font-size: 1.3rem;
+  font-weight: 700;
+  line-height: 1.15;
+  letter-spacing: 0.0715rem;
+  color: #000000;
+  font-family: Arimo, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.app-tid .div-5-rAm .contacto-UWu {
+  margin: 0rem 81.1rem 5.5rem 0rem;
+  font-size: 1.3rem;
+  font-weight: 700;
+  line-height: 1.15;
+  letter-spacing: 0.0715rem;
+  color: #000000;
+  font-family: Arimo, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.app-tid .div-5-rAm .ball-oZB {
+  margin-bottom: 1.3rem;
+  width: 5.5rem;
+  height: 5.5rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+
+
+
+/* CODIGO EXTRA */
+.Rectangle {
+  width: 200px;
+  height: 22px;
+  margin: 0px 0px 0 0px;
+  padding: 15px 39px 15px 30px;
+  border-radius: 50px;
+  border: solid 1px #fff;
+}
+
+
+.Rectangle2 {
+  width: 180px;
+  height: 22px;
+  margin: 0px 0px 0 -200px;
+  padding: 15px 39px 15px 30px;
+  border-radius: 50px;
+  border: solid 1px #000000;
+}
+
+
+.hide {
+  display: none;
+  visibility: hidden;
+}
+
+.text-responsive {
+  margin-bottom: 0.8rem;
+  font-size: 5.3rem;
+  font-weight: 700;
+  line-height: 1.15;
+  letter-spacing: -0.1855rem;
+  color: #ffffff;
+  font-family: Arimo, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+/* RESPONSIVA */
+
+@media only screen and (max-width: 600px) {
+  .hidden {
+    display: none;
+    visibility: hidden;
+  }
+
+  .show {
+    display: inline-block!important; 
+    visibility: visible;
+  }
+
+}
+
+
+@media only screen and (min-width: 768px) {
+
+  .hhh {
+    display: none;
+    visibility: visible;
+  }
+
+}
